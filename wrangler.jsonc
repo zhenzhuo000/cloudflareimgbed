@@ -1,5 +1,0 @@
-name = "cloudflare-imgbed"
-compatibility_date = "2026-01-12"
-
-# 可选：添加环境变量，v2.0 版本后大部分配置已迁移到管理后台
-# [vars]
