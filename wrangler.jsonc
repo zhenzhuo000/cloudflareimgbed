@@ -1,0 +1,7 @@
+{
+  "name":"CloudFlare-ImgBed",
+  "compatinility_date":"2025-1-12",
+  "assets":{
+    "directory":"./dist"
+  }
+}
